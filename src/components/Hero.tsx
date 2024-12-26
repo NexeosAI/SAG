@@ -26,7 +26,7 @@ export default function Hero() {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="bg-white text-[#2c2128] px-8 py-3 rounded-lg font-semibold flex items-center justify-center hover:bg-blue-50 transition-colors">
-              Get Your Free AI Assessment
+              Get Your Free AI Assessment (Coming soon)
               <ArrowRight className="ml-2 h-5 w-5" />
             </button>
             <button className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold flex items-center justify-center hover:bg-white/10 transition-colors">
