@@ -18,7 +18,7 @@ export default function Hero() {
         <Logo />
         <div className="max-w-3xl mx-auto text-center text-white">
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
-            Democratising AI for Scottish Business
+            AI for all in Scotland
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-blue-100">
             #1 Ranked AI Expert Making AI Accessible
