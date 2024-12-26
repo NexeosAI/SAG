@@ -21,7 +21,7 @@ export default function Hero() {
             AI for all in Scotland
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-blue-100">
-            #1 Ranked AI Expert Making AI Accessible
+            #1 Ranked AI Expert | Making AI Accessible
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -30,7 +30,7 @@ export default function Hero() {
               <ArrowRight className="ml-2 h-5 w-5" />
             </button>
             <button className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold flex items-center justify-center hover:bg-white/10 transition-colors">
-              Watch AI Insights
+              Watch AI Insights (Coming soon)
               <Youtube className="ml-2 h-5 w-5" />
             </button>
           </div>
